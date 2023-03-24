@@ -1,0 +1,8 @@
+C:\Users\togzh\source\repos\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\togzh\source\repos\Calendar\bin\Debug\Calendar.exe
+C:\Users\togzh\source\repos\Calendar\bin\Debug\Calendar.pdb
+C:\Users\togzh\source\repos\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+C:\Users\togzh\source\repos\Calendar\obj\Debug\Calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\togzh\source\repos\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\togzh\source\repos\Calendar\obj\Debug\Calendar.exe
+C:\Users\togzh\source\repos\Calendar\obj\Debug\Calendar.pdb
